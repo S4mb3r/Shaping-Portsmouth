@@ -1,0 +1,66 @@
+
+html, body {
+  background-color: #102364;
+}
+footer {
+  border: 3px solid 
+#10235b;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.centre { /*To centre elements just add this as a class to the HTML element*/
+  text-align: center;
+}
+
+.forms:hover{
+  color: 
+red;
+}
+
+
+
+
+main {
+  /*column-count:2;*/
+  width: 75%;
+  margin-left: auto; /*Centres it*/
+  margin-right: auto; /*Centres it*/
+}
+
+.info {
+  word-wrap: break-word;
+  border-left: 4px solid 
+#10235b;
+}
+
+.forms, a {
+  text-align: center;
+  background-color: 
+#10235b;
+  text-decoration-color: 
+#10235b;
+  color: 
+white;
+  padding: 7.5px;
+  border-radius: 10px;
+}
+
+.forms, br {
+  background-color: 
+white;
+}
+
+.h3 {
+  text-decoration: bold;
+  text-decoration-color: 
+#10235b;
+}
+
+img {
+  height: 70%;
+  max-width: 70%;
+}
+
+
